@@ -1,22 +1,10 @@
-# Success Monthly Newsletter
+# Newsletter Emails
 
-This email newsletter template was created using email code best practices.
+Newsletters allow you to contact your readers on the latest updates of your business. A good quality newsletter starts with a clear heading (your business logo as well as the subject of the email) in order to capture the reader's attention. The content underneath and its layout should be created with the goal of keeping your subscribers in the loop.
+## Demos
 
-## Highlights
-• mso | (IE) used for:
-    background image
-    + 2 columns.
+#1. success.html: https://chaeri-heav3n.github.io/newsletter.html
+## #1. success.html
 
-• 2 columns stack depending on device width. Mobile friendly.
+![App Screenshot](https://i.ibb.co/FzFRhnc/Screen-Shot-2023-03-25-at-6-54-20-PM.png)
 
-• Table based coding (one div for the box-shadow).
-## Demo
-
-https://chaeri-heav3n.github.io/newsletter.html
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/2SC4bX7/Screen-Shot-2023-03-06-at-9-50-38-PM.png>)
-
-![App Screenshot](https://i.ibb.co/0njN3DJ/Screen-Shot-2023-03-06-at-9-50-56-PM.png)
-
-![App Screenshot](https://i.ibb.co/tzHnnWh/Screen-Shot-2023-03-06-at-9-51-11-PM.png)
