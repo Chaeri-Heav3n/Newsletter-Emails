@@ -6,5 +6,5 @@ Newsletters allow you to contact your readers on the latest updates of your busi
 #1. success.html: https://chaeri-heav3n.github.io/newsletter.html
 ## #1. success.html
 
-![App Screenshot](https://i.ibb.co/FzFRhnc/Screen-Shot-2023-03-25-at-6-54-20-PM.png)
+![App Screenshot](https://i.ibb.co/kyPQKjK/Screen-Shot-2023-03-26-at-6-23-15-PM.png)
 
